@@ -2,7 +2,7 @@ console.log("Git practice project started");
  
 function login(username, password) { 
   if (username && password) { 
-    return "Welcome to the application"; 
+    return "Welcome to the login application"; 
   } 
  
   return "Username and password are required"; 
